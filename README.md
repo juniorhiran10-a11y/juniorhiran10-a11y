@@ -5,17 +5,17 @@
 **Automação, captação de leads e IA para negócios, construídas com enxames de agentes.**<br>
 <sub>Automation, lead generation and AI products, built with multi-agent swarms.</sub>
 
-[aeronsolution.tech](https://aeronsolution.tech) · [Base de Operações ao vivo](https://base.aeronsolution.tech) · [Aéron Hive Studio](https://github.com/juniorhiran10-a11y/aeron-hive)
+[aeronsolution.tech](https://aeronsolution.tech) · [Base de Operações ao vivo](https://base.aeronsolution.tech) · [Aéron Hive Studio](#-aéron-hive-studio)
 
 </div>
 
 ---
 
-## 🌐 Código aberto
+## 🐝 Aéron Hive Studio
 
-**[Aéron Hive Studio](https://github.com/juniorhiran10-a11y/aeron-hive)**: centro de comando visual de enxames multi-agente sobre Git worktrees. Claude Code, Codex, Gemini, OpenRouter e outros constroem o mesmo projeto em paralelo, dentro de um núcleo neural em 3D.
+Centro de comando visual de enxames multi-agente sobre Git worktrees. Claude Code, Codex, Gemini, OpenRouter e outros constroem o mesmo projeto em paralelo, dentro de um núcleo neural em 3D. **Em breve.** Para acesso antecipado: [Fale conosco](https://aeronsolution.tech).
 
-<a href="https://github.com/juniorhiran10-a11y/aeron-hive"><img src="https://raw.githubusercontent.com/juniorhiran10-a11y/aeron-hive/main/docs/demo.webp" alt="Aéron Hive Studio" width="720"></a>
+<img src="docs/hive-demo.webp" alt="Aéron Hive Studio" width="720">
 
 ## 🧲 Leads e captura de dados
 
